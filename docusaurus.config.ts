@@ -66,11 +66,11 @@ const config: Config = {
           label: '产品文档列表',
         },
         
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        //{
+        //  href: 'https://github.com/facebook/docusaurus',
+        //  label: 'GitHub',
+        //  position: 'right',
+        //},
       ],
     },
     footer: {
@@ -88,17 +88,17 @@ const config: Config = {
         {
           title: '社区',
           items: [
+            //{
+            //  label: 'Stack Overflow',
+            //  href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            //},
+            //{
+            //  label: 'Discord',
+            //  href: 'https://discordapp.com/invite/docusaurus',
+            //},
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Weibo',
+              href: 'https://weibo.com/n/%E6%B5%B7%E8%9B%9E%E8%9D%93%E6%9D%82%E8%B4%A7%E9%93%BA',
             },
           ],
         },
@@ -110,13 +110,18 @@ const config: Config = {
               href: 'https://seaslug.moe/',
             },
             {
+              label: 'Taobao',
+              href: 'https://umiusi.taobao.com',
+            },
+            
+            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/minamion',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Umiusi Store, Inc(仮). Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
