@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# ESP32-TNC 基于ESP32-S2和SR-FRS无线电模块的简单TNC
+# ESP32-TNC ESP32简易无线电TNC
 
 >本项目/文档还未写完
 

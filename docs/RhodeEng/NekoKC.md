@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# NekoKC 基于ESP32-C3的运动追踪猫耳头
+# NekoKC ESP32-C3运动追踪猫耳头饰
 > [项目链接](https://oshwhub.com/Rhode-Eng-Dep/nekokc-mcu)
 
 > 特别提醒：焊接请注意安全 因不遵守安全操作规范造成的事故及经济损失请自行承担责任
