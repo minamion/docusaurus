@@ -231,5 +231,5 @@ TypeC线缆具有多种规格和功能，用户经常不清楚自己的线缆是
 
 ## 硬件开源内容
 
-- [原理图下载链接](insert_schematic_link_here)
-- [工程文件下载链接](insert_project_files_link_here)
+- [原理图下载链接](https://oshwhub.com/minamion/usb-c-cable-tester-c2c)
+- [工程文件下载链接](https://oshwhub.com/minamion/usb-c-cable-tester-c2c)
