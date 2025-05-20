@@ -25,7 +25,7 @@ TypeC线缆具有多种规格和功能，用户经常不清楚自己的线缆是
 ![TypeC线缆规格测试工具外观](/img/PCB_USB-C-cable-tester-C2C_light.png#gh-light-mode-only)![TypeC线缆规格测试工具外观](/img/PCB_USB-C-cable-tester-C2C_dark.png#gh-dark-mode-only)
 
 ## 如何使用
-
+0. 首先准备一颗**CR2032电池**，安装到右侧电池槽内，注意正负极方向。
 1. 将要测试的TypeC线缆的两头连接到工具上。
 2. 根据以下灯的亮起情况，参考快速检查表，判断线缆的功能。
 
